@@ -46,6 +46,6 @@ def compare_files(file1, file2, file3):
 # Example usage
 file1 = 'File1.csv'  # or 'File1.xlsx'
 file2 = 'File2.xlsx'  # or 'File2.xlsx'
-file3 = 'File3.xlsx'  # result file (should be Excel to handle cell colors)
+file3 = 'comparison_results.xlsx'  # result file (should be Excel to handle cell colors)
 
 compare_files(file1, file2, file3)
